@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xeno-Wolf
 - 👀 I’m interested in Linux, NeoVim and Binary.
-- 🌱 I’m currently learning C and JavaScript.
+- 🌱 I’m currently learning C, C++, and ASM.
 - 💞️ I’m looking to collaborate on YouTube.
 - 📫 xenowolf85@gmail.com

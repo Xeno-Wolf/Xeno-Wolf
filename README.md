@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Xeno-Wolf
-- 👀 I’m interested in Linux, NeoVim and Binary.
-- 🌱 I’m currently learning Shell and Bash script.
-- 💞️ I’m looking to collaborate on YouTube.
+- 👋 Hey, I’m @Xeno-Wolf
+- 👀 I’m interested in Linux, NeoVim, ASM.
+- 🌱 I’m currently re-learning C and C++.
 - 📫 xenowolf85@gmail.com
+- Age = 15-years-old
+- Former Programming Experience = C, Python, ASM, HTML (Only learned C++ for stupid shit not worth mentioning).
+- Reason As To Why I'm Learning = Currently re-learning C and C++ to get a foreign job, preferably in Switzerland due to high Forex/Monetary Conversion rate.

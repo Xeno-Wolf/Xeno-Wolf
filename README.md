@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @Xeno-Wolf
 - 👀 I’m interested in Linux, NeoVim, ASM.
-- 🌱 I’m currently re-learning C and C++.
+- 🌱 I’m currently re-learning C & C++ & SDL2.
 - 📫 xenowolf85@gmail.com
 - Age = 15-years-old
 - Former Programming Experience = C, Python, 86x ASM, HTML (Only learned C++ for stupid shit not worth mentioning).

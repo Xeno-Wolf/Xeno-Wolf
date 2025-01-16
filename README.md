@@ -2,6 +2,4 @@
 - 👀 I’m interested in Linux, NeoVim, ASM.
 - 🌱 I’m currently re-learning C & C++ & SDL2.
 - 📫 xenowolf85@gmail.com
-- Age = 15-years-old
-- Former Programming Experience = C, Python, 86x ASM, HTML (Only learned C++ for stupid shit not worth mentioning).
-- Reason As To Why I'm Learning = Currently re-learning C and C++ to get a foreign job, preferably in Switzerland due to high Forex/Monetary Conversion rate.
+- Former Programming Experience = C, 86x ASM, HTML (Only learned C++ for stupid shit not worth mentioning).
